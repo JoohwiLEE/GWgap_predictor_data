@@ -22,7 +22,6 @@ Please cite the following reference if the data and reproduced machine learning 
   url = {https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.115104}
 }
 ```
-## License
 
 ## License
 
